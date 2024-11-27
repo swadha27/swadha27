@@ -75,7 +75,7 @@
 #### &nbsp;
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsumat&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadha27&theme=vue"/>
 </p>
 
 ## 🌐 Socials
