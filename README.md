@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning Python & Javascript.
 - 💬 Ask me about Python Development and Data Analysis.
 - 📫 How to reach me: Check my socials below.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once participated in a competitive burger-eating contest and managed to devour 11 burgers in under 10 minutes! 🍔
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Data Analyst by day, sushi connoisseur by night — always on a quest for the perfect roll (and clean code).
 
 
 ### Tech stack
